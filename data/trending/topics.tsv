@@ -1,8 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-31T19:44:24.913Z; n=40
-show	hn,sn:Design	7.34	yes	
-poland	sn:Politics_And_Law	5.93	no	RISING
-izabella kaminska	sn:Politics_And_Law	5.93	no	RISING
+# generated 2026-11-01T00:43:48.216Z; n=40
+poland	sn:Politics_And_Law	5.95	no	RISING
+izabella kaminska	sn:Politics_And_Law	5.95	no	RISING
 the evolution	sn:bitcoin	4.36	yes	
 the bitcoin whitepapers	sn:bitcoin	4.36	yes	
 there were four versions by satoshi	sn:bitcoin	4.36	yes	
@@ -17,7 +16,8 @@ gospel	sn:the_stacker_muse	3.46	no	RISING
 radicalism	sn:the_stacker_muse	3.46	no	RISING
 frog	sn:bitcoin	3.4	yes	
 there	sn:bitcoin	3.4	yes	
-surprising	sn:math	3.31	no	RISING
+surprising	sn:math	3.34	no	RISING
+show	hn	3.32	yes	
 waste	sn:Travel	3.16	no	RISING
 life	sn:Travel	3.16	no	RISING
 karl bushby	sn:Travel	3.16	no	RISING
@@ -26,17 +26,17 @@ chile	sn:Travel	3.16	no	RISING
 england	sn:Travel	3.16	no	RISING
 jonathan wolfe	sn:Travel	3.16	no	RISING
 iykyk	sn:history	3.14	no	RISING
+unnatural hair color	sn:charts_and_maps	3.09	no	RISING
+mental health	sn:charts_and_maps	3.09	no	RISING
 urgent patch	sn:lightning	3.07	no	RISING
-happy halloween stackers	sn:bitcoin	3.07	yes	
-neutral	sn:Politics_And_Law	3.03	no	RISING
-big picture context	sn:Politics_And_Law	3.03	no	RISING
-the blind spot	sn:Politics_And_Law	3.03	no	RISING
+neutral	sn:Politics_And_Law	3.05	no	RISING
+big picture context	sn:Politics_And_Law	3.05	no	RISING
+the blind spot	sn:Politics_And_Law	3.05	no	RISING
+figure it out	sn:AskSN	3.04	no	RISING
+how to use linux	sn:AskSN	3.04	no	RISING
+put alby hub on	sn:AskSN	3.04	no	RISING
+raspberry pi	sn:AskSN	3.04	no	RISING
+pool	sn:AskSN	3	no	RISING
+week	sn:AskSN	3	no	RISING
 jerry jones says hiring troy aikman is	sn:Stacker_Sports	2.99	no	RISING
 very possible	sn:Stacker_Sports	2.99	no	RISING
-accept lightning	sn:bitcoin	2.97	yes	
-lexe	sn:bitcoin	2.97	yes	
-chainalysis	sn:news	2.92	yes	
-cup night one discussion thread	sn:Stacker_Sports	2.91	no	RISING
-europoorean hypocrisy	sn:Politics_And_Law	2.9	no	RISING
-coups	sn:Politics_And_Law	2.9	no	RISING
-euro	sn:Politics_And_Law	2.9	no	RISING
