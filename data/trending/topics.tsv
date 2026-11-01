@@ -1,11 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-01T00:43:48.216Z; n=40
+# generated 2026-11-01T11:03:10.677Z; n=40
 poland	sn:Politics_And_Law	5.95	no	RISING
 izabella kaminska	sn:Politics_And_Law	5.95	no	RISING
-the evolution	sn:bitcoin	4.36	yes	
-the bitcoin whitepapers	sn:bitcoin	4.36	yes	
-there were four versions by satoshi	sn:bitcoin	4.36	yes	
-austin	sn:Travel	4.33	yes	
 the kelly criterion	sn:math	3.86	no	RISING
 risk	sn:math	3.86	no	RISING
 ruin	sn:math	3.86	no	RISING
@@ -14,29 +10,33 @@ wayfaring men book club	sn:the_stacker_muse	3.46	no	RISING
 prester john	sn:the_stacker_muse	3.46	no	RISING
 gospel	sn:the_stacker_muse	3.46	no	RISING
 radicalism	sn:the_stacker_muse	3.46	no	RISING
-frog	sn:bitcoin	3.4	yes	
-there	sn:bitcoin	3.4	yes	
 surprising	sn:math	3.34	no	RISING
-show	hn	3.32	yes	
-waste	sn:Travel	3.16	no	RISING
-life	sn:Travel	3.16	no	RISING
-karl bushby	sn:Travel	3.16	no	RISING
-walk	sn:Travel	3.16	no	RISING
-chile	sn:Travel	3.16	no	RISING
-england	sn:Travel	3.16	no	RISING
-jonathan wolfe	sn:Travel	3.16	no	RISING
 iykyk	sn:history	3.14	no	RISING
-unnatural hair color	sn:charts_and_maps	3.09	no	RISING
-mental health	sn:charts_and_maps	3.09	no	RISING
-urgent patch	sn:lightning	3.07	no	RISING
+unnatural hair color	sn:charts_and_maps	3.11	no	RISING
+mental health	sn:charts_and_maps	3.11	no	RISING
+figure it out	sn:AskSN	3.08	no	RISING
+how to use linux	sn:AskSN	3.08	no	RISING
+put alby hub on	sn:AskSN	3.08	no	RISING
+raspberry pi	sn:AskSN	3.08	no	RISING
 neutral	sn:Politics_And_Law	3.05	no	RISING
 big picture context	sn:Politics_And_Law	3.05	no	RISING
 the blind spot	sn:Politics_And_Law	3.05	no	RISING
-figure it out	sn:AskSN	3.04	no	RISING
-how to use linux	sn:AskSN	3.04	no	RISING
-put alby hub on	sn:AskSN	3.04	no	RISING
-raspberry pi	sn:AskSN	3.04	no	RISING
-pool	sn:AskSN	3	no	RISING
-week	sn:AskSN	3	no	RISING
-jerry jones says hiring troy aikman is	sn:Stacker_Sports	2.99	no	RISING
-very possible	sn:Stacker_Sports	2.99	no	RISING
+pool	sn:AskSN	3.02	no	RISING
+week	sn:AskSN	3.02	no	RISING
+biggest channel opened today	sn:lightning	3.02	no	RISING
+new node spotlight	sn:lightning	3.02	no	RISING
+umbrel users can update to	sn:bitcoin	2.96	yes	
+europoorean hypocrisy	sn:Politics_And_Law	2.9	no	RISING
+coups	sn:Politics_And_Law	2.9	no	RISING
+euro	sn:Politics_And_Law	2.9	no	RISING
+telegraph	sn:Politics_And_Law	2.9	no	RISING
+ashton jeanty says some jets	sn:Stacker_Sports	2.88	no	RISING
+really want	sn:Stacker_Sports	2.88	no	RISING
+tackle	sn:Stacker_Sports	2.88	no	RISING
+competition	sn:AI	2.88	yes	
+qwen	sn:AI	2.88	yes	
+nvidia	sn:AI	2.88	yes	
+cuda	sn:AI	2.88	yes	
+books	sn:BooksAndArticles	2.86	no	RISING
+articles weekly	sn:BooksAndArticles	2.86	no	RISING
+saturday	sn:Photography	2.78	no	RISING
