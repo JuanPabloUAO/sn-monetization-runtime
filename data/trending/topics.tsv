@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-01T11:03:10.677Z; n=40
-poland	sn:Politics_And_Law	5.95	no	RISING
-izabella kaminska	sn:Politics_And_Law	5.95	no	RISING
-the kelly criterion	sn:math	3.86	no	RISING
-risk	sn:math	3.86	no	RISING
-ruin	sn:math	3.86	no	RISING
-lodging	sn:the_stacker_muse	3.46	no	RISING
-wayfaring men book club	sn:the_stacker_muse	3.46	no	RISING
-prester john	sn:the_stacker_muse	3.46	no	RISING
-gospel	sn:the_stacker_muse	3.46	no	RISING
-radicalism	sn:the_stacker_muse	3.46	no	RISING
-surprising	sn:math	3.34	no	RISING
-iykyk	sn:history	3.14	no	RISING
-unnatural hair color	sn:charts_and_maps	3.11	no	RISING
-mental health	sn:charts_and_maps	3.11	no	RISING
+# generated 2026-11-01T20:15:10.138Z; n=40
+show	hn	8.37	yes	
+what	sn:AskSN,sn:trading	5.84	yes	
+sunday	sn:Stacker_Sports	5.58	no	RISING
+world	hn,sn:charts_and_maps	4.52	no	RISING
+austin	sn:Travel	4.05	yes	
+behind europe	sn:AskSN	3.17	no	RISING
+fertility decline	sn:AskSN	3.17	no	RISING
 figure it out	sn:AskSN	3.08	no	RISING
 how to use linux	sn:AskSN	3.08	no	RISING
 put alby hub on	sn:AskSN	3.08	no	RISING
 raspberry pi	sn:AskSN	3.08	no	RISING
-neutral	sn:Politics_And_Law	3.05	no	RISING
-big picture context	sn:Politics_And_Law	3.05	no	RISING
-the blind spot	sn:Politics_And_Law	3.05	no	RISING
-pool	sn:AskSN	3.02	no	RISING
-week	sn:AskSN	3.02	no	RISING
-biggest channel opened today	sn:lightning	3.02	no	RISING
-new node spotlight	sn:lightning	3.02	no	RISING
+why honey badgers are	sn:bitcoin	3.06	yes	
+most unhinged creatures	sn:bitcoin	3.06	yes	
+earth	sn:bitcoin	3.06	yes	
+animals recapped	sn:bitcoin	3.06	yes	
 umbrel users can update to	sn:bitcoin	2.96	yes	
-europoorean hypocrisy	sn:Politics_And_Law	2.9	no	RISING
-coups	sn:Politics_And_Law	2.9	no	RISING
-euro	sn:Politics_And_Law	2.9	no	RISING
-telegraph	sn:Politics_And_Law	2.9	no	RISING
-ashton jeanty says some jets	sn:Stacker_Sports	2.88	no	RISING
-really want	sn:Stacker_Sports	2.88	no	RISING
-tackle	sn:Stacker_Sports	2.88	no	RISING
+has anyone heard of	sn:bitcoin	2.95	yes	
+book	sn:bitcoin	2.95	yes	
+reading bitcoin	sn:bitcoin	2.95	yes	
+swiss tony	sn:trading	2.94	no	RISING
+back	sn:trading	2.94	no	RISING
+polymarket	sn:trading	2.94	no	RISING
+trading legend returns	sn:trading	2.94	no	RISING
+chris cook	sn:trading	2.94	no	RISING
+bitcoin	sn:nostr	2.89	yes	
 competition	sn:AI	2.88	yes	
 qwen	sn:AI	2.88	yes	
 nvidia	sn:AI	2.88	yes	
 cuda	sn:AI	2.88	yes	
-books	sn:BooksAndArticles	2.86	no	RISING
-articles weekly	sn:BooksAndArticles	2.86	no	RISING
-saturday	sn:Photography	2.78	no	RISING
+path	sn:Stacker_Sports	2.87	no	RISING
+grey cup	sn:Stacker_Sports	2.87	no	RISING
+discussion thread	sn:Stacker_Sports	2.86	no	RISING
+an italian	hn	2.85	no	RISING
+use-after-free	hn	2.81	no	RISING
+cvss	hn	2.81	no	RISING
+health index	sn:charts_and_maps	2.8	no	RISING
+taiwan	sn:charts_and_maps	2.8	no	RISING
+south korea	sn:charts_and_maps	2.8	no	RISING
+japan	sn:charts_and_maps	2.8	no	RISING
+north korea responsible	sn:bitcoin	2.79	yes	
