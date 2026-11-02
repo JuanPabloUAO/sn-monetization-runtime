@@ -1,21 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-02T01:17:42.396Z; n=40
-show	hn	9.2	yes	
+# generated 2026-11-02T12:01:32.037Z; n=40
+show	hn	15.43	yes	
 sunday	sn:Stacker_Sports	6.01	no	RISING
 what	sn:AskSN,sn:trading	5.85	yes	
-world	hn,sn:charts_and_maps	4.65	no	RISING
+world	hn,sn:charts_and_maps	4.82	no	RISING
 austin	sn:Travel	4.06	yes	
-behind europe	sn:AskSN	3.18	no	RISING
-fertility decline	sn:AskSN	3.18	no	RISING
+server urges shutdown after reports	sn:bitcoin	3.19	yes	
+hot-wallet sweeps	sn:bitcoin	3.19	yes	
+the defiant	sn:bitcoin	3.19	yes	
 western civilization	sn:BooksAndArticles	3.18	no	RISING
 intellectual	sn:BooksAndArticles	3.18	no	RISING
 academic celebration	sn:BooksAndArticles	3.18	no	RISING
 tunkuv	sn:BooksAndArticles	3.18	no	RISING
+behind europe	sn:AskSN	3.18	no	RISING
+fertility decline	sn:AskSN	3.18	no	RISING
+no matter who wins	sn:Politics_And_Law	3.09	no	RISING
+midterms	sn:Politics_And_Law	3.09	no	RISING
+economics will lose	sn:Politics_And_Law	3.09	no	RISING
+tyler cowen	sn:Politics_And_Law	3.09	no	RISING
 discussion thread	sn:Stacker_Sports	3.06	no	RISING
-why honey badgers are	sn:bitcoin	3.06	yes	
-most unhinged creatures	sn:bitcoin	3.06	yes	
-earth	sn:bitcoin	3.06	yes	
-animals recapped	sn:bitcoin	3.06	yes	
 strc	sn:Stacker_Stocks	3.04	no	RISING
 payout	sn:Stacker_Stocks	3.04	no	RISING
 takes	sn:Stacker_Stocks	3.04	no	RISING
@@ -23,20 +26,17 @@ crown	sn:Stacker_Stocks	3.04	no	RISING
 bills buckshot	sn:Stacker_Sports	3	no	RISING
 ravens	sn:Stacker_Sports	3	no	RISING
 my three takeaways	sn:Stacker_Sports	3	no	RISING
-umbrel users can update to	sn:bitcoin	2.96	yes	
+bitcoin arena	sn:bitcoin	2.98	yes	
+sign	sn:Stacker_Sports	2.95	no	RISING
+predyx	sn:Stacker_Sports	2.95	no	RISING
 has anyone heard of	sn:bitcoin	2.95	yes	
 book	sn:bitcoin	2.95	yes	
 reading bitcoin	sn:bitcoin	2.95	yes	
-sign	sn:Stacker_Sports	2.95	no	RISING
-predyx	sn:Stacker_Sports	2.95	no	RISING
 swiss tony	sn:trading	2.94	no	RISING
 back	sn:trading	2.94	no	RISING
 polymarket	sn:trading	2.94	no	RISING
 trading legend returns	sn:trading	2.94	no	RISING
 chris cook	sn:trading	2.94	no	RISING
-bitcoin	sn:nostr	2.89	yes	
 path	sn:Stacker_Sports	2.87	no	RISING
 grey cup	sn:Stacker_Sports	2.87	no	RISING
 health index	sn:charts_and_maps	2.8	no	RISING
-taiwan	sn:charts_and_maps	2.8	no	RISING
-south korea	sn:charts_and_maps	2.8	no	RISING
