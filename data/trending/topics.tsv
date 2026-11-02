@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-01T20:15:10.138Z; n=40
-show	hn	8.37	yes	
-what	sn:AskSN,sn:trading	5.84	yes	
-sunday	sn:Stacker_Sports	5.58	no	RISING
-world	hn,sn:charts_and_maps	4.52	no	RISING
-austin	sn:Travel	4.05	yes	
-behind europe	sn:AskSN	3.17	no	RISING
-fertility decline	sn:AskSN	3.17	no	RISING
-figure it out	sn:AskSN	3.08	no	RISING
-how to use linux	sn:AskSN	3.08	no	RISING
-put alby hub on	sn:AskSN	3.08	no	RISING
-raspberry pi	sn:AskSN	3.08	no	RISING
+# generated 2026-11-02T01:17:42.396Z; n=40
+show	hn	9.2	yes	
+sunday	sn:Stacker_Sports	6.01	no	RISING
+what	sn:AskSN,sn:trading	5.85	yes	
+world	hn,sn:charts_and_maps	4.65	no	RISING
+austin	sn:Travel	4.06	yes	
+behind europe	sn:AskSN	3.18	no	RISING
+fertility decline	sn:AskSN	3.18	no	RISING
+western civilization	sn:BooksAndArticles	3.18	no	RISING
+intellectual	sn:BooksAndArticles	3.18	no	RISING
+academic celebration	sn:BooksAndArticles	3.18	no	RISING
+tunkuv	sn:BooksAndArticles	3.18	no	RISING
+discussion thread	sn:Stacker_Sports	3.06	no	RISING
 why honey badgers are	sn:bitcoin	3.06	yes	
 most unhinged creatures	sn:bitcoin	3.06	yes	
 earth	sn:bitcoin	3.06	yes	
 animals recapped	sn:bitcoin	3.06	yes	
+strc	sn:Stacker_Stocks	3.04	no	RISING
+payout	sn:Stacker_Stocks	3.04	no	RISING
+takes	sn:Stacker_Stocks	3.04	no	RISING
+crown	sn:Stacker_Stocks	3.04	no	RISING
+bills buckshot	sn:Stacker_Sports	3	no	RISING
+ravens	sn:Stacker_Sports	3	no	RISING
+my three takeaways	sn:Stacker_Sports	3	no	RISING
 umbrel users can update to	sn:bitcoin	2.96	yes	
 has anyone heard of	sn:bitcoin	2.95	yes	
 book	sn:bitcoin	2.95	yes	
 reading bitcoin	sn:bitcoin	2.95	yes	
+sign	sn:Stacker_Sports	2.95	no	RISING
+predyx	sn:Stacker_Sports	2.95	no	RISING
 swiss tony	sn:trading	2.94	no	RISING
 back	sn:trading	2.94	no	RISING
 polymarket	sn:trading	2.94	no	RISING
 trading legend returns	sn:trading	2.94	no	RISING
 chris cook	sn:trading	2.94	no	RISING
 bitcoin	sn:nostr	2.89	yes	
-competition	sn:AI	2.88	yes	
-qwen	sn:AI	2.88	yes	
-nvidia	sn:AI	2.88	yes	
-cuda	sn:AI	2.88	yes	
 path	sn:Stacker_Sports	2.87	no	RISING
 grey cup	sn:Stacker_Sports	2.87	no	RISING
-discussion thread	sn:Stacker_Sports	2.86	no	RISING
-an italian	hn	2.85	no	RISING
-use-after-free	hn	2.81	no	RISING
-cvss	hn	2.81	no	RISING
 health index	sn:charts_and_maps	2.8	no	RISING
 taiwan	sn:charts_and_maps	2.8	no	RISING
 south korea	sn:charts_and_maps	2.8	no	RISING
-japan	sn:charts_and_maps	2.8	no	RISING
-north korea responsible	sn:bitcoin	2.79	yes	
