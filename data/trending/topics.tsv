@@ -1,7 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-02T23:19:13.882Z; n=40
-ubuntu	hn	5.47	no	RISING
-show	hn	4.95	yes	
+# generated 2026-11-03T11:39:29.608Z; n=40
+show	hn	9.42	no	RISING
+ubuntu	hn	5.92	no	RISING
 in search	sn:the_stacker_muse	4.29	no	RISING
 freedom	sn:the_stacker_muse	4.29	no	RISING
 life	sn:the_stacker_muse	4.29	no	RISING
@@ -16,27 +16,27 @@ not robot	sn:Stacker_Stocks	3.74	no	RISING
 hedge	sn:Stacker_Stocks	3.74	no	RISING
 trade	sn:Stacker_Stocks	3.74	no	RISING
 katie toothfairy	sn:Stacker_Stocks	3.74	no	RISING
-interest rates	sn:Politics_And_Law	3.72	no	RISING
-financial bubbles	sn:Politics_And_Law	3.72	no	RISING
-ruchir sharma	sn:Politics_And_Law	3.72	no	RISING
-infrastructure backlash	sn:Politics_And_Law	3.69	no	RISING
-nimby	sn:Politics_And_Law	3.69	no	RISING
-gets	sn:Politics_And_Law	3.69	no	RISING
-new flavor	sn:Politics_And_Law	3.69	no	RISING
-toby nangle	sn:Politics_And_Law	3.69	no	RISING
-anyone	sn:AskSN	3.34	yes	
-parent corner	sn:family	3.27	no	RISING
-finding	sn:family	3.27	no	RISING
-reddit	sn:meta	3.25	yes	
-logged-in	sn:meta	3.25	yes	
-server urges shutdown after reports	sn:bitcoin	3.25	yes	
-hot-wallet sweeps	sn:bitcoin	3.25	yes	
-the defiant	sn:bitcoin	3.25	yes	
-astra	hn	3.2	no	RISING
-qwen	hn	3.2	yes	
+infrastructure backlash	sn:Politics_And_Law	3.7	no	RISING
+nimby	sn:Politics_And_Law	3.7	no	RISING
+gets	sn:Politics_And_Law	3.7	no	RISING
+new flavor	sn:Politics_And_Law	3.7	no	RISING
+toby nangle	sn:Politics_And_Law	3.7	no	RISING
+open-source	hn	3.58	no	RISING
+astra	hn	3.44	no	RISING
+qwen	hn	3.44	no	RISING
+anyone	sn:AskSN	3.37	yes	
+reddit	sn:meta	3.29	yes	
+logged-in	sn:meta	3.29	yes	
+parent corner	sn:family	3.28	no	RISING
+finding	sn:family	3.28	no	RISING
 rclone-powered	sn:tech	3.2	yes	
-some vintage mining equipment for sale at satwize	sn:bitcoin_Mining	3.17	no	RISING
-survivor pool	sn:Stacker_Sports	3.12	no	RISING
-winner	sn:Stacker_Sports	3.12	no	RISING
+some vintage mining equipment for sale at satwize	sn:bitcoin_Mining	3.19	no	RISING
+survivor pool	sn:Stacker_Sports	3.14	no	RISING
+winner	sn:Stacker_Sports	3.14	no	RISING
+blockstream	sn:news	3.13	yes	
+what	sn:AskSN	3.03	yes	
+omarchy mobile	sn:tech	3.02	yes	
 atari	sn:gaming	3.01	yes	
-omarchy mobile	sn:tech	2.96	yes	
+comma open source self driving	sn:tech	2.99	yes	
+bears	sn:Stacker_Sports	2.97	no	RISING
+seahawks discussion thread	sn:Stacker_Sports	2.97	no	RISING
