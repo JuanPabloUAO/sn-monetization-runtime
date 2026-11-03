@@ -60460,3 +60460,14 @@
 2026-11-03T14:59:44.572Z	1607652	news	2	110	0	1	1.6	297791	8042	recent@news|top@news	FRESH,SIGNAL	Government Linux Servers Targeted With SysGoRAT & Suspected AI-Generated Scripts
 2026-11-03T14:59:44.572Z	1607607	Stacker_Stocks	2	106	0	0	3.3	280679	23950	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	Mind the gap: Is high yield paid for the jump?
 2026-11-03T14:59:44.572Z	1607641	charts_and_maps	2	104	0	1	2.0	280679	23950	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	The World’s Richest Countries by 2031
+2026-11-03T17:04:35.194Z	1607753	bitcoin	1	5787	0	4	1.9	724606	13892	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	The Binance Hack Response Was Altogether Very Tradfi (Money Stuff, Matt Levine)
+2026-11-03T17:04:35.194Z	1607534	lightning	1	1352	0	5	9.2	263526	1112	recent@lightning|top@lightning	HOT,SIGNAL	Bitcoin Lightning's security fixes still missing from 71% of flagged nodes
+2026-11-03T17:04:35.194Z	1607539	AI	1	1292	0	4	8.5	1475330	226	recent@AI|top@AI	HOT,SIGNAL	4 Video Generation models are 95% off on ppq.ai
+2026-11-03T17:04:35.194Z	1607541	tech	1	497	0	1	8.4	1054143	1484	recent@tech|top@tech	SIGNAL	North Korean hackers expected to take months to launder stolen Binance billions
+2026-11-03T17:04:35.194Z	1607792	bitcoin	1	406	0	9	1.0	272410	2173	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	How can you be a bitcoiner and vote for a guy who prints money?
+2026-11-03T17:04:35.194Z	1607537	lightning	1	363	0	1	8.9	272410	2173	recent@lightning|top@lightning	SIGNAL	Cashu Nutshell 0.22.0: BIP-39 mint seeds, caching without Redis & security fixes
+2026-11-03T17:04:35.194Z	1607749	lightning	1	354	0	1	2.0	263526	1112	recent@lightning|top@lightning	SIGNAL	What's your main Lightning focus this week?
+2026-11-03T17:04:35.194Z	1607553	lightning	1	350	0	1	7.1	163128	4026	recent@lightning|top@lightning	SIGNAL	Who Patches the Lightning Network? Evidence from Release Lines in Gossip
+2026-11-03T17:04:35.194Z	1607596	bitcoin	1	227	0	1	5.8	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Announcing the overhaul and re-release of the  BitcoInflation
+2026-11-03T17:04:35.194Z	1607635	bitcoin_Mining	1	222	0	1	4.5	1054143	1484	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitcoin miner Cipher posts $31 million profit as AI pivot begins
+2026-11-03T17:04:35.194Z	1607725	bitcoin	1	185	0	1	2.4	699824	172	recent@lightning|top@lightning	SIGNAL	Building Zap Cooking w/ Seth & Daniel

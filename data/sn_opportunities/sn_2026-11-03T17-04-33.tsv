@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1607753	bitcoin	1	5787	0	4	1.9	724606	13892	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	The Binance Hack Response Was Altogether Very Tradfi (Money Stuff, Matt Levine)
+1607534	lightning	1	1352	0	5	9.2	263526	1112	recent@lightning|top@lightning	HOT,SIGNAL	Bitcoin Lightning's security fixes still missing from 71% of flagged nodes
+1607539	AI	1	1292	0	4	8.5	1475330	226	recent@AI|top@AI	HOT,SIGNAL	4 Video Generation models are 95% off on ppq.ai
+1607541	tech	1	497	0	1	8.4	1054143	1484	recent@tech|top@tech	SIGNAL	North Korean hackers expected to take months to launder stolen Binance billions
+1607792	bitcoin	1	406	0	9	1.0	272410	2173	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	How can you be a bitcoiner and vote for a guy who prints money?
+1607537	lightning	1	363	0	1	8.9	272410	2173	recent@lightning|top@lightning	SIGNAL	Cashu Nutshell 0.22.0: BIP-39 mint seeds, caching without Redis & security fixes
+1607749	lightning	1	354	0	1	2.0	263526	1112	recent@lightning|top@lightning	SIGNAL	What's your main Lightning focus this week?
+1607553	lightning	1	350	0	1	7.1	163128	4026	recent@lightning|top@lightning	SIGNAL	Who Patches the Lightning Network? Evidence from Release Lines in Gossip
+1607596	bitcoin	1	227	0	1	5.8	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Announcing the overhaul and re-release of the  BitcoInflation
+1607635	bitcoin_Mining	1	222	0	1	4.5	1054143	1484	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitcoin miner Cipher posts $31 million profit as AI pivot begins
+1607725	bitcoin	1	185	0	1	2.4	699824	172	recent@lightning|top@lightning	SIGNAL	Building Zap Cooking w/ Seth & Daniel
+1607025	AskSN	2	2343	0	16	26.9	597594	3265	recent@bitcoin	HOT,SELF_POST_OPP	Anyone else finding this bear depressing AF?
+1607190	meta	1	1931	0	29	24.0	74100	13600	recent@AI|top@AI|recent@meta	HOT	Reddit is moving to “a logged-in-only experience,” CEO says
+1607096	bitcoin	1	1738	0	5	25.7	74100	13600	recent@bitcoin|recent@bitdevs	HOT	lichen: new layer 2 ledger idea - AdamISZ
+1606983	tech	1	1596	0	4	28.0	1570149	38	recent@tech	HOT	I made an rclone-powered GUI/CLI for backing up personal files & family pictures
+1606989	bitcoin_Mining	1	1555	0	1	27.7	1264102	119	recent@bitcoin_Mining	HOT	Some Vintage Mining Equipment For Sale At Satwize
+1607322	news	2	1385	0	6	19.6	74100	13600	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Blockstream sends 300BTC to liquid federation wallet
+1607478	tech	1	1229	0	15	13.9	30782	26179	recent@tech|top@tech	HOT	Comma Open Source Self Driving?
+1606991	bitcoin	1	1078	0	0	27.6	1574064	67	recent@bitcoin	HOT	- YouTube - How to Create Bitcoin Handles (Easiest Way in 2026)
+1607045	tech	1	1044	0	1	26.6	1597874	23	recent@tech	HOT	Omarchy Mobile
+1607183	gaming	3	1024	0	0	24.2	553	3564	recent@tech	HOT	Atari announces recreation of legendary 800 XL console
+1607091	lightning	1	915	0	2	25.8	699824	172	recent@lightning		October Newsletter - Breez
+1606932	AI	1	824	0	3	30.6	280679	23951	recent@devs|recent@AI		Proton’s AI manifesto for software engineering
+1607220	bitcoin	1	717	0	0	23.4	74100	13600	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Sharing and Transferring Bitcoin UTXOs Offchain - Vinteum Deep Dive
+1607169	Design	2	521	0	1	24.4	74100	13600	recent@lightning		Zapper: Lamp that lights up every time you receive a zap - BitPopArt
+1607229	bitcoin	1	466	0	0	23.3	178	950	recent@bitcoin|top@bitcoin		Bitcoin Tech Talk #525: Travel LARP, Sith-Pilled, Boys to Men, Manosphere, Lux++
+1607492	AI	1	409	0	0	13.0	553	3564	recent@AI|top@AI		My F-You To Sam Altman - Linus Tech Tips
+1607139	bitcoin	1	390	0	1	25.0	176202	56	recent@bitcoin		THE FIGHT AGAINST DAC8 IS NOW SPREADING ACROSS EUROPE
+1607035	tech	1	385	0	1	26.8	777209	107	recent@tech		Supermarket freezers across Europe hit by second suspected cyber-attack
+1606946	bitcoin	1	372	0	1	29.8	263526	1112	recent@bitcoin		BTCPay Server SECURITY ADVISORY
+1607193	bitcoin	1	275	0	0	23.9	462245	312	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus		New Security Policy — Last Week in Bitcoin (Oct 26 - Nov 01)
+1607242	AI	1	236	0	0	22.6	401865	8768	recent@AI|top@AI		Major AI Models Are More Willing than Ever to Create Fake Election Images
+1606896	bitcoin	1	235	0	0	35.1	296825	5851	recent@bitcoin|recent@bitcoin_beginners		Ditching Gold for This
+1607490	nostr	1	204	0	1	13.4	1072161	96	recent@nostr|top@nostr		🗞️ The Latest in Nostr: Weekly Nostr Recap 🚀 (03rd November 2026)
+1606923	news	2	168	0	0	31.2	297791	8042	recent@AI		New VOLTA Infostealer Uses Claude, Gemini & Kimi AI to Rank Victims Financially
+1607243	AI	1	156	0	0	22.6	1575305	70	recent@AI|top@AI		AgiBot puts six humanoid robots on a live 24-hour convenience store shift
+1607463	devs	1	125	0	2	14.5	297791	8042	recent@devs|top@devs		Switched to a Tailscale alternative for 6 months, I can’t see myself going back
+1607396	AI	1	79	0	1	16.5	1575305	70	recent@AI|top@AI		MIT has an LLM edit raw neural net weights by reasoning, no gradients
+1607651	bitcoin	1	36	0	0	3.8	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners		Club Orange - The Cold Wallet
+1607531	bitcoin_beginners	1	36	0	0	9.3	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners		What if understanding war requires understanding the financial system behind it?
+1607588	bitcoin	1	36	0	1	6.0	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners		It’s allegedly corrupt and flawed. Opt out
+1607360	bitcoin_beginners	1	36	0	1	17.5	1444593	157	recent@bitcoin_beginners|top@bitcoin_beginners		Alerta! Posible phishing a usuarios de Ledger.
+1607155	bitcoin	1	36	0	0	24.7	296825	5851	recent@bitcoin_beginners		Security Incident Affecting BTCPay Server 2.4.1 and Earlier | BTCPay Server Blog
+1607777	tech	1	36	0	2	1.3	934367	1141	recent@privacy|top@privacy|recent@tech	FRESH	A sound that leaks your exact location (and it's everywhere) - YouTube
+1607024	AI	1	32	0	1	27.0	1603610	4	recent@AI		Can AI predict crypto prices? What the Kronos research does and doesn't show
+1607309	bitcoin_Mining	1	11	0	0	20.4	1532836	1594	recent@bitcoin_Mining|top@bitcoin_Mining		Statistics Blockparty #46
+1607070	AI	1	11	0	1	26.2	297791	8042	recent@devs|recent@AI		Radeon RADV Vulkan Driver Adopts An LLM Policy
+1606984	AI	1	11	0	0	27.8	280679	23951	recent@AI		Anthropic’s moat is Claude | The bull case for Anthropic’s IPO
+1606921	AI	1	11	0	0	31.6	297791	8042	recent@AI		Anthropic just removed one of Claude’s biggest usage limits
+1607507	bitcoin_beginners	1	0	0	1	11.4	296825	5851	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin explanatory video
+1607390	bitcoin	1	0	0	0	16.8	1497665	16	recent@bitcoinplusplus|top@bitcoinplusplus		satd 0.7.0: optional full OP_RETURN pruning
+1607417	bitdevs	1	0	0	0	15.9	1592474	18	recent@bitdevs|top@bitdevs		I built a ~$13 Bitcoin signer that never shows the seed. What's wrong with it?
