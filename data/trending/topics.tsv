@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-03T11:39:29.608Z; n=40
-show	hn	9.42	no	RISING
-ubuntu	hn	5.92	no	RISING
-in search	sn:the_stacker_muse	4.29	no	RISING
-freedom	sn:the_stacker_muse	4.29	no	RISING
-life	sn:the_stacker_muse	4.29	no	RISING
-death	sn:the_stacker_muse	4.29	no	RISING
-sovereignty	sn:the_stacker_muse	4.29	no	RISING
-himalaya	sn:the_stacker_muse	4.29	no	RISING
-microsoft	sn:Stacker_Stocks	3.76	no	RISING
-financial engineer	sn:Stacker_Stocks	3.76	no	RISING
-cash flow questions	sn:Stacker_Stocks	3.76	no	RISING
-armstrong	sn:Stacker_Stocks	3.76	no	RISING
-not robot	sn:Stacker_Stocks	3.74	no	RISING
-hedge	sn:Stacker_Stocks	3.74	no	RISING
-trade	sn:Stacker_Stocks	3.74	no	RISING
-katie toothfairy	sn:Stacker_Stocks	3.74	no	RISING
-infrastructure backlash	sn:Politics_And_Law	3.7	no	RISING
-nimby	sn:Politics_And_Law	3.7	no	RISING
-gets	sn:Politics_And_Law	3.7	no	RISING
-new flavor	sn:Politics_And_Law	3.7	no	RISING
-toby nangle	sn:Politics_And_Law	3.7	no	RISING
-open-source	hn	3.58	no	RISING
-astra	hn	3.44	no	RISING
-qwen	hn	3.44	no	RISING
-anyone	sn:AskSN	3.37	yes	
-reddit	sn:meta	3.29	yes	
-logged-in	sn:meta	3.29	yes	
-parent corner	sn:family	3.28	no	RISING
-finding	sn:family	3.28	no	RISING
-rclone-powered	sn:tech	3.2	yes	
-some vintage mining equipment for sale at satwize	sn:bitcoin_Mining	3.19	no	RISING
-survivor pool	sn:Stacker_Sports	3.14	no	RISING
-winner	sn:Stacker_Sports	3.14	no	RISING
-blockstream	sn:news	3.13	yes	
-what	sn:AskSN	3.03	yes	
-omarchy mobile	sn:tech	3.02	yes	
-atari	sn:gaming	3.01	yes	
-comma open source self driving	sn:tech	2.99	yes	
-bears	sn:Stacker_Sports	2.97	no	RISING
-seahawks discussion thread	sn:Stacker_Sports	2.97	no	RISING
+# generated 2026-11-03T21:31:35.649Z; n=40
+what	sn:AskSN	6.12	yes	
+qwen	hn	5.47	no	RISING
+google	hn,sn:tech	4.68	yes	
+pleb economist	sn:math	4.23	no	RISING
+aleatoric	sn:math	4.23	no	RISING
+epistemic uncertainty	sn:math	4.23	no	RISING
+the binance hack response was altogether very tradfi	sn:bitcoin	3.76	yes	
+money stuff	sn:bitcoin	3.76	yes	
+matt levine	sn:bitcoin	3.76	yes	
+treasuries	sn:trading	3.69	no	RISING
+path	sn:trading	3.69	no	RISING
+yields	sn:trading	3.69	no	RISING
+bloomberg	sn:trading	3.69	no	RISING
+the everything risk	sn:trading	3.69	no	RISING
+harrison	sn:trading	3.69	no	RISING
+nicholas dorier	sn:bitcoin	3.22	yes	
+server still serve	sn:bitcoin	3.22	yes	
+purpose	sn:bitcoin	3.22	yes	
+bitcoin lightning	sn:lightning	3.17	no	RISING
+video generation	sn:AI	3.15	yes	
+comma open source self driving	sn:tech	3.09	yes	
+stacker news	sn:AskSN	3.08	no	RISING
+paraguay	sn:econ	3.06	no	RISING
+last	sn:Stacker_Sports	3	no	RISING
+why milei	sn:Politics_And_Law	2.98	no	RISING
+chainsaw revolution required restraint	sn:Politics_And_Law	2.98	no	RISING
+bears	sn:Stacker_Sports	2.98	no	RISING
+seahawks discussion thread	sn:Stacker_Sports	2.98	no	RISING
+brissett	sn:Stacker_Sports	2.96	no	RISING
+minshew	sn:Stacker_Sports	2.96	no	RISING
+the finance hack was	sn:Politics_And_Law	2.96	no	RISING
+neat	sn:Politics_And_Law	2.96	no	RISING
+long-run social attack	sn:Politics_And_Law	2.96	no	RISING
+asgari	sn:Politics_And_Law	2.96	no	RISING
+shah	sn:Politics_And_Law	2.96	no	RISING
+joinmarket-ng	sn:bitcoin	2.92	yes	
+electrum	sn:bitcoin	2.92	yes	
+astra	hn	2.91	yes	
+pool	sn:AskSN	2.91	no	RISING
+week	sn:AskSN	2.91	no	RISING
