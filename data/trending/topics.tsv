@@ -1,10 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-04T01:55:33.756Z; n=40
-qwen	hn	5.65	no	RISING
+# generated 2026-11-04T11:52:59.463Z; n=40
+qwen	hn	5.81	no	RISING
+stringman	hn,sn:tech	5.52	yes	
+postman	hn	4.8	no	RISING
+show	hn	4.44	no	RISING
 pleb economist	sn:math	4.23	no	RISING
 aleatoric	sn:math	4.23	no	RISING
 epistemic uncertainty	sn:math	4.23	no	RISING
-show	hn	4.03	no	RISING
 the binance hack response was altogether very tradfi	sn:bitcoin	3.77	yes	
 money stuff	sn:bitcoin	3.77	yes	
 matt levine	sn:bitcoin	3.77	yes	
@@ -14,29 +16,27 @@ yields	sn:trading	3.69	no	RISING
 bloomberg	sn:trading	3.69	no	RISING
 the everything risk	sn:trading	3.69	no	RISING
 harrison	sn:trading	3.69	no	RISING
-an englishman goes	sn:the_stacker_muse	3.61	no	RISING
-london	sn:the_stacker_muse	3.61	no	RISING
-satattack	sn:the_stacker_muse	3.61	no	RISING
-den fight	sn:the_stacker_muse	3.61	no	RISING
-chess	sn:the_stacker_muse	3.61	no	RISING
+an englishman goes	sn:the_stacker_muse	3.62	no	RISING
+london	sn:the_stacker_muse	3.62	no	RISING
+satattack	sn:the_stacker_muse	3.62	no	RISING
+den fight	sn:the_stacker_muse	3.62	no	RISING
+chess	sn:the_stacker_muse	3.62	no	RISING
 last	sn:Stacker_Sports	3.48	no	RISING
+try bitcoin saving	sn:bitcoin	3.48	yes	
+simulator	sn:bitcoin	3.48	yes	
 nicholas dorier	sn:bitcoin	3.25	yes	
 server still serve	sn:bitcoin	3.25	yes	
 purpose	sn:bitcoin	3.25	yes	
-bitcoin lightning	sn:lightning	3.18	no	RISING
-video generation	sn:AI	3.15	yes	
+auto-installs	hn	3.12	no	RISING
 what	sn:AskSN	3.12	yes	
 stacker news	sn:AskSN	3.12	no	RISING
-comma open source self driving	sn:tech	3.09	yes	
 paraguay	sn:econ	3.08	no	RISING
-postman	hn	3.01	no	RISING
-auto-installs	hn	3.01	no	RISING
+astra	hn	3	yes	
+captain	sn:movies	3	no	RISING
+legacy	sn:movies	3	no	RISING
+celebrating sir patrick stewart	sn:movies	3	no	RISING
 the finance hack was	sn:Politics_And_Law	3	no	RISING
 neat	sn:Politics_And_Law	3	no	RISING
 long-run social attack	sn:Politics_And_Law	3	no	RISING
 asgari	sn:Politics_And_Law	3	no	RISING
 shah	sn:Politics_And_Law	3	no	RISING
-why milei	sn:Politics_And_Law	2.98	no	RISING
-chainsaw revolution required restraint	sn:Politics_And_Law	2.98	no	RISING
-astra	hn	2.96	yes	
-joinmarket-ng	sn:bitcoin	2.96	yes	
