@@ -60650,3 +60650,36 @@
 2026-11-04T17:51:20.140Z	1608409	nostr	1	203	0	0	0.9	74100	13631	recent@nostr|top@nostr	FRESH,SIGNAL	lazarus: Recovery of user data from relay history on Nostr. - dmnyc
 2026-11-04T17:51:20.140Z	1608252	AI	1	180	0	1	6.1	297791	8048	recent@AI|top@AI	SIGNAL	Anthropic speeds up Claude Code with message threads, your token bill stays same
 2026-11-04T17:51:20.140Z	1608331	bitcoin	1	159	0	0	3.1	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Bitcoin Core Config Generator now compatible with the latest release, v32.1
+2026-11-04T22:35:00.855Z	1608337	bitcoin	1	3681	0	1	7.6	14014	283	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	Bitcoin++ Alerts — Know when the software you rely on changes
+2026-11-04T22:35:00.855Z	1608515	AskSN	2	3187	0	41	3.7	48657	16592	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	Let's discuss what the Democrat sweep means for financial markets and bitcoin
+2026-11-04T22:35:00.855Z	1608400	bitcoin	1	2723	0	0	5.8	1014665	251	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Elias Rohrer, instagibbs, darosior & more - Bitcoin Optech Newsletter #429 Recap
+2026-11-04T22:35:00.855Z	1608309	bitcoin	1	1685	0	6	8.6	74100	13646	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	“Ooo, maybe this will make me rich!” thinking prevents bitcoin adoption
+2026-11-04T22:35:00.855Z	1608349	Stacker_Stocks	2	1542	0	0	7.4	724606	13951	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	In Defense of Dumb Index Funds and Flying Blind (WSJ, Spencer Jakab)
+2026-11-04T22:35:00.855Z	1608336	Politics_And_Law	3	1510	0	17	7.6	724606	13951	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Karl Marx Was the OG Boomer: Unproductive and Parasitical (WSJ, Freeman)
+2026-11-04T22:35:00.855Z	1608434	trading	3	1453	0	7	5.2	724606	13951	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL,SELF_POST_OPP	Prediction Markets Are Oh-So Dangerous (FT, David Booth)
+2026-11-04T22:35:00.855Z	1608258	news	2	1234	0	1	10.7	126503	860	recent@news|top@news	HOT,SIGNAL	French bank hacked
+2026-11-04T22:35:00.855Z	1608631	bitcoin	1	1186	0	2	0.5	74100	13646	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Why isn't bitcoin used for more gray market things?
+2026-11-04T22:35:00.855Z	1608324	trading	3	1020	0	18	8.0	724606	13951	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Made My First Predyx Market: Gukesh vs Javokhir! (Chess World Championship)
+2026-11-04T22:35:00.855Z	1608244	news	2	1000	0	2	11.1	51481	4344	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news	HOT,SIGNAL	Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%
+2026-11-04T22:35:00.855Z	1608314	nostr	1	844	0	1	8.3	80864	465	recent@nostr|top@nostr|recent@devs	SIGNAL	Chatastrophe: Your server's disasters, delivered by Nostr DM
+2026-11-04T22:35:00.855Z	1608464	bitcoin	1	788	0	0	4.7	74100	13646	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	QSAVE -  a path for coins that never migrate: no burn, no freeze
+2026-11-04T22:35:00.855Z	1608307	devs	1	788	0	0	8.7	126503	860	recent@devs|top@devs	SIGNAL	Reverse engineer anything with agents, from app behavior down to native binarie.
+2026-11-04T22:35:00.856Z	1608550	math	2	613	0	0	3.1	74100	13646	recent@bitdevs|top@bitdevs|recent@math	SIGNAL	Introducing CUTS, a new few-time hash-based signature scheme - Project Eleven
+2026-11-04T22:35:00.856Z	1608269	news	2	505	0	4	10.1	126503	860	recent@news|top@news	SIGNAL	New York Times vs Brave, accusing the browser helping users bypass paywalls
+2026-11-04T22:35:00.856Z	1608321	bitcoin_beginners	1	443	0	0	8.2	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Core Lightning Release v26.06.10 Quantum-Resistant Lightning Channel VII
+2026-11-04T22:35:00.856Z	1608428	bitcoin	1	408	0	1	5.3	109384	155	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Hashprice Prediction Markets Live on Glimpse
+2026-11-04T22:35:00.856Z	1608502	news	2	401	0	0	4.0	74100	13646	recent@devs|top@devs|recent@news	SIGNAL	Debian and Ubuntu APT Flaw Lets MitM Swap Verified Packages and Run Code as Root
+2026-11-04T22:35:00.856Z	1608279	bitcoin	1	378	0	2	9.4	280679	23964	recent@bitcoin|top@bitcoin|recent@devs	SIGNAL	Open Source Software Development in the Age of AI
+2026-11-04T22:35:00.856Z	1608372	meta	1	353	0	7	6.6	36151	1698	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-11-04T22:35:00.856Z	1608418	bitcoin	1	316	0	0	5.5	21800	498	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	TaskFuel: paid tools for your AI agent, now funded with sats
+2026-11-04T22:35:00.856Z	1608240	Stacker_Stocks	2	311	0	4	11.2	9274	29297	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	🗳️ Trading the midterms - Snacks
+2026-11-04T22:35:00.856Z	1608285	AskSN	2	307	0	1	9.3	509957	4993	recent@AskSN|top@AskSN	SIGNAL	2026-27 UCL Pool: Week 4 Match Day2
+2026-11-04T22:35:00.856Z	1608276	tech	1	306	0	1	9.5	777209	112	recent@tech|top@tech	SIGNAL	Debian patches apt bug letting a man-in-the-middle run code as root
+2026-11-04T22:35:00.856Z	1608430	lightning	1	234	0	1	5.2	163128	4037	recent@lightning|top@lightning	SIGNAL	LaWallet NWC — Lightning Addresses for Everyone
+2026-11-04T22:35:00.856Z	1608390	bitcoinplusplus	1	204	0	0	6.0	272410	2195	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Tap that Cash: Building Cashu Payment Terminals with Nucula — zeugmaster (Dario)
+2026-11-04T22:35:00.856Z	1608423	lightning	1	204	0	2	5.4	163128	4037	recent@lightning|top@lightning	SIGNAL	LaWallet.ar Support ending soon — please move your funds out
+2026-11-04T22:35:00.856Z	1608409	nostr	1	203	0	0	5.6	74100	13646	recent@nostr|top@nostr	SIGNAL	lazarus: Recovery of user data from relay history on Nostr. - dmnyc
+2026-11-04T22:35:00.856Z	1608252	AI	1	180	0	1	10.8	297791	8048	recent@AI|top@AI	SIGNAL	Anthropic speeds up Claude Code with message threads, your token bill stays same
+2026-11-04T22:35:00.856Z	1608331	bitcoin	1	159	0	0	7.8	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Bitcoin Core Config Generator now compatible with the latest release, v32.1
+2026-11-04T22:35:00.856Z	1608352	BooksAndArticles	2	139	0	1	7.4	1593075	49	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	The Genesis Code: The Complete Novel (all 23 chapters)
+2026-11-04T22:35:00.856Z	1608330	Stacker_Stocks	2	122	0	1	7.8	1054143	1490	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Seriously, stop worrying about market concentration
