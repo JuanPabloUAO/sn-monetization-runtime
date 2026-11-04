@@ -60632,3 +60632,21 @@
 2026-11-04T17:06:31.509Z	1608352	BooksAndArticles	2	139	0	1	1.9	1593075	49	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	The Genesis Code: The Complete Novel (all 23 chapters)
 2026-11-04T17:06:31.509Z	1608225	Stacker_Stocks	2	136	0	6	6.5	9274	29292	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
 2026-11-04T17:06:31.509Z	1608330	Stacker_Stocks	2	122	0	1	2.4	1054143	1487	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Seriously, stop worrying about market concentration
+2026-11-04T17:51:20.139Z	1608337	bitcoin	1	3681	0	1	2.9	14014	283	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	Bitcoin++ Alerts — Know when the software you rely on changes
+2026-11-04T17:51:20.139Z	1608205	bitcoin	1	3057	0	1	10.3	356670	376	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Try Bitcoin Saving DCA Simulator on TestFlight
+2026-11-04T17:51:20.139Z	1608400	bitcoin	1	1542	0	0	1.1	1014665	251	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Elias Rohrer, instagibbs, darosior & more - Bitcoin Optech Newsletter #429 Recap
+2026-11-04T17:51:20.139Z	1608314	nostr	1	844	0	1	3.6	80864	465	recent@nostr|top@nostr|recent@devs	SIGNAL	Chatastrophe: Your server's disasters, delivered by Nostr DM
+2026-11-04T17:51:20.139Z	1608309	bitcoin	1	802	0	1	3.9	74100	13631	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	“Ooo, maybe this will make me rich!” thinking prevents bitcoin adoption
+2026-11-04T17:51:20.139Z	1608307	devs	1	788	0	0	3.9	126503	859	recent@devs|top@devs	SIGNAL	Reverse engineer anything with agents, from app behavior down to native binarie.
+2026-11-04T17:51:20.140Z	1608321	bitcoin_beginners	1	443	0	0	3.4	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Core Lightning Release v26.06.10 Quantum-Resistant Lightning Channel VII
+2026-11-04T17:51:20.140Z	1608428	bitcoin	1	408	0	0	0.6	109384	155	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	Hashprice Prediction Markets Live on Glimpse
+2026-11-04T17:51:20.140Z	1608279	bitcoin	1	378	0	2	4.7	280679	23958	recent@bitcoin|top@bitcoin|recent@devs	SIGNAL	Open Source Software Development in the Age of AI
+2026-11-04T17:51:20.140Z	1608418	bitcoin	1	306	0	0	0.7	21800	498	recent@bitcoin|top@bitcoin|recent@AI	FRESH,SIGNAL	TaskFuel: paid tools for your AI agent, now funded with sats
+2026-11-04T17:51:20.140Z	1608276	tech	1	306	0	1	4.8	777209	112	recent@tech|top@tech	SIGNAL	Debian patches apt bug letting a man-in-the-middle run code as root
+2026-11-04T17:51:20.140Z	1608372	meta	1	271	0	4	1.9	36151	1698	recent@meta|top@meta	FRESH,SIGNAL	What are you working on this week?
+2026-11-04T17:51:20.140Z	1608390	bitcoinplusplus	1	204	0	0	1.3	272410	2195	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Tap that Cash: Building Cashu Payment Terminals with Nucula — zeugmaster (Dario)
+2026-11-04T17:51:20.140Z	1608430	lightning	1	204	0	0	0.5	163128	4037	recent@lightning|top@lightning	FRESH,SIGNAL	LaWallet NWC — Lightning Addresses for Everyone
+2026-11-04T17:51:20.140Z	1608423	lightning	1	204	0	1	0.7	163128	4037	recent@lightning|top@lightning	FRESH,SIGNAL	LaWallet.ar Support ending soon — please move your funds out
+2026-11-04T17:51:20.140Z	1608409	nostr	1	203	0	0	0.9	74100	13631	recent@nostr|top@nostr	FRESH,SIGNAL	lazarus: Recovery of user data from relay history on Nostr. - dmnyc
+2026-11-04T17:51:20.140Z	1608252	AI	1	180	0	1	6.1	297791	8048	recent@AI|top@AI	SIGNAL	Anthropic speeds up Claude Code with message threads, your token bill stays same
+2026-11-04T17:51:20.140Z	1608331	bitcoin	1	159	0	0	3.1	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Bitcoin Core Config Generator now compatible with the latest release, v32.1

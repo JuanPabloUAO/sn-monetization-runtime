@@ -1,0 +1,62 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1608337	bitcoin	1	3681	0	1	2.9	14014	283	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	Bitcoin++ Alerts — Know when the software you rely on changes
+1608205	bitcoin	1	3057	0	1	10.3	356670	376	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Try Bitcoin Saving DCA Simulator on TestFlight
+1608400	bitcoin	1	1542	0	0	1.1	1014665	251	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Elias Rohrer, instagibbs, darosior & more - Bitcoin Optech Newsletter #429 Recap
+1608314	nostr	1	844	0	1	3.6	80864	465	recent@nostr|top@nostr|recent@devs	SIGNAL	Chatastrophe: Your server's disasters, delivered by Nostr DM
+1608309	bitcoin	1	802	0	1	3.9	74100	13631	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	“Ooo, maybe this will make me rich!” thinking prevents bitcoin adoption
+1608307	devs	1	788	0	0	3.9	126503	859	recent@devs|top@devs	SIGNAL	Reverse engineer anything with agents, from app behavior down to native binarie.
+1608321	bitcoin_beginners	1	443	0	0	3.4	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Core Lightning Release v26.06.10 Quantum-Resistant Lightning Channel VII
+1608428	bitcoin	1	408	0	0	0.6	109384	155	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	Hashprice Prediction Markets Live on Glimpse
+1608279	bitcoin	1	378	0	2	4.7	280679	23958	recent@bitcoin|top@bitcoin|recent@devs	SIGNAL	Open Source Software Development in the Age of AI
+1608418	bitcoin	1	306	0	0	0.7	21800	498	recent@bitcoin|top@bitcoin|recent@AI	FRESH,SIGNAL	TaskFuel: paid tools for your AI agent, now funded with sats
+1608276	tech	1	306	0	1	4.8	777209	112	recent@tech|top@tech	SIGNAL	Debian patches apt bug letting a man-in-the-middle run code as root
+1608372	meta	1	271	0	4	1.9	36151	1698	recent@meta|top@meta	FRESH,SIGNAL	What are you working on this week?
+1608390	bitcoinplusplus	1	204	0	0	1.3	272410	2195	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Tap that Cash: Building Cashu Payment Terminals with Nucula — zeugmaster (Dario)
+1608430	lightning	1	204	0	0	0.5	163128	4037	recent@lightning|top@lightning	FRESH,SIGNAL	LaWallet NWC — Lightning Addresses for Everyone
+1608423	lightning	1	204	0	1	0.7	163128	4037	recent@lightning|top@lightning	FRESH,SIGNAL	LaWallet.ar Support ending soon — please move your funds out
+1608409	nostr	1	203	0	0	0.9	74100	13631	recent@nostr|top@nostr	FRESH,SIGNAL	lazarus: Recovery of user data from relay history on Nostr. - dmnyc
+1608252	AI	1	180	0	1	6.1	297791	8048	recent@AI|top@AI	SIGNAL	Anthropic speeds up Claude Code with message threads, your token bill stays same
+1608331	bitcoin	1	159	0	0	3.1	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Bitcoin Core Config Generator now compatible with the latest release, v32.1
+1607753	bitcoin	1	5919	0	10	26.7	724606	13942	recent@bitcoin	HOT	The Binance Hack Response Was Altogether Very Tradfi (Money Stuff, Matt Levine)
+1607862	bitcoin	1	1824	0	8	24.2	416864	1024	recent@bitcoin|recent@devs	HOT	Nicholas Dorier: "Does BTCPay Server Still Serve a Purpose?"
+1607534	lightning	1	1512	0	6	33.9	263526	1116	recent@lightning	HOT	Bitcoin Lightning's security fixes still missing from 71% of flagged nodes
+1607539	AI	1	1435	0	5	33.3	1475330	227	recent@AI	HOT	4 Video Generation models are 95% off on ppq.ai
+1608008	bitcoin	1	936	0	5	20.9	74100	13631	recent@bitcoin|top@bitcoin|recent@bitdevs		cheap solo yolo red teaming - Talip
+1608090	devs	1	929	0	8	17.9	48657	16571	top@devs		Why you shouldn't vote, dev edition.
+1607871	bitcoin	1	901	0	1	24.0	240060	108	recent@bitcoin		joinmarket-ng plugin for Electrum wallet
+1607792	bitcoin	1	677	0	27	25.8	272410	2195	recent@bitcoin		How can you be a bitcoiner and vote for a guy who prints money?
+1608093	tech	1	536	0	1	17.8	777209	112	recent@tech|top@tech		Stringman: an open source, air-gappable $795 cable robot for a whole room
+1607541	tech	1	497	0	1	33.2	1054143	1487	recent@tech		North Korean hackers expected to take months to launder stolen Binance billions
+1608165	bitcoin	1	437	0	1	15.0	74100	13631	recent@bitcoin|top@bitcoin		This transaction includes the whitepaper in its taproot annex
+1608134	AI	1	416	0	0	16.6	934429	361	top@AI		Consensus predicts Big Tech AI spending will double by 2026.
+1607961	AI	1	407	0	3	22.2	238412	412	recent@AI|top@AI		AI Will Cut The BS Jobs
+1607537	lightning	1	363	0	1	33.7	272410	2195	recent@lightning		Cashu Nutshell 0.22.0: BIP-39 mint seeds, caching without Redis & security fixes
+1607553	lightning	1	361	0	2	31.8	163128	4037	recent@lightning		Who Patches the Lightning Network? Evidence from Release Lines in Gossip
+1607749	lightning	1	354	0	1	26.8	263526	1116	recent@lightning		What's your main Lightning focus this week?
+1607853	bitcoin	1	306	0	2	24.5	593189	894	recent@bitcoin		i winder what north korea will do with an extra 3 billion dollars ..... 🤔
+1608052	AI	1	272	0	1	19.2	297791	8048	recent@devs|top@devs|recent@AI		Fintech Revolut slashes AI coding costs 10x cutting out Claude going self-hosted
+1607635	bitcoin_Mining	1	233	0	1	29.3	1054143	1487	recent@bitcoin_Mining		Bitcoin miner Cipher posts $31 million profit as AI pivot begins
+1607596	bitcoin	1	227	0	1	30.5	296825	5858	recent@bitcoin_beginners		Announcing the overhaul and re-release of the  BitcoInflation
+1607864	tech	1	188	0	0	24.1	12309	3754	recent@privacy|recent@tech		Google dismantles botnet secretly running on 1.3 million Android TV boxes
+1607725	bitcoin	1	185	0	2	27.2	699824	172	recent@lightning		Building Zap Cooking w/ Seth & Daniel
+1608058	tech	1	165	0	1	19.0	12309	3754	recent@privacy|top@privacy|recent@devs		Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card
+1608026	AI	1	147	0	0	20.2	297791	8048	recent@AI|top@AI		Google will let schools disable its AI tools, but not without sacrificing Search
+1607531	bitcoin_beginners	1	111	0	0	34.1	296825	5858	recent@bitcoin_beginners		What if understanding war requires understanding the financial system behind it?
+1607777	tech	1	57	0	2	26.1	934367	1142	recent@privacy|recent@tech		A sound that leaks your exact location (and it's everywhere) - YouTube
+1608187	bitcoin	1	36	0	0	12.6	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners		Ex-Mt. Gox CEO Found a Spy in a Ledger: Mark Karpelès
+1608184	bitcoin	1	36	0	1	13.1	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin Developers Are Burning Out
+1608180	bitcoin_beginners	1	36	0	0	13.3	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners		PeerBadge — an open protocol for portable, anonymous trust
+1608188	bitcoin_beginners	1	36	0	1	12.5	296825	5858	recent@bitcoin_beginners|top@bitcoin_beginners		The exit plan: How to get your Bitcoin out of their hands, step by step
+1608124	bitcoin_beginners	1	36	0	1	17.3	1444593	159	recent@bitcoin_beginners|top@bitcoin_beginners		Tus 12 palabras no son 12 palabras random.
+1607651	bitcoin	1	36	0	0	28.5	296825	5858	recent@bitcoin_beginners		Club Orange - The Cold Wallet
+1607588	bitcoin	1	36	0	1	30.7	296825	5858	recent@bitcoin_beginners		It’s allegedly corrupt and flawed. Opt out
+1608229	AI	1	36	0	1	6.9	297791	8048	recent@AI|top@AI		US stock futures fall as investors weigh a midterm shake-up in Washington
+1608215	AI	1	36	0	0	8.6	382968	311	recent@AI|top@AI		ByteDance Seed releases GenFirst code and end-to-end latent-model weights
+1608075	math	2	32	0	0	18.2	1248037	2047	recent@AI|top@AI		The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+1607913	AI	1	32	0	0	23.2	1575305	72	recent@AI|top@AI		spaCy author: GPT-6 Astra's weight editing trick isn't what it seems
+1607832	AI	1	32	0	0	24.8	280679	23958	recent@AI		Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles
+1608089	AI	1	11	0	0	17.9	1575305	72	recent@AI|top@AI		First liver biopsy proof that base editing fixed a gene typo inside a patient
+1608066	bitcoin_Mining	1	0	0	0	18.5	272410	2195	recent@bitcoin_Mining|top@bitcoin_Mining		Additional funding extends Mujina's 2026 term through December | 256 Foundation
+1608023	bitcoinplusplus	1	0	0	0	20.3	280679	23958	recent@bitcoinplusplus|top@bitcoinplusplus		Triggering Lightning: Building Event-Driven Payouts — Mo Harchegani
+1608464	bitcoin	1	0	0	0	0.0	74100	13631	recent@bitdevs|top@bitdevs	FRESH	QSAVE -  a path for coins that never migrate: no burn, no freeze
+1608202	tech	1	0	0	0	10.5	1054143	1487	recent@AI|top@AI		Oracle cancels $7bn Tencent AI deal under Trump pressure
