@@ -60728,3 +60728,18 @@
 2026-11-05T03:25:58.569Z	1608557	Stacker_Stocks	2	169	0	0	7.7	1054143	1490	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap
 2026-11-05T03:25:58.569Z	1608613	Politics_And_Law	3	155	0	0	6.3	280679	23964	recent@econ|top@econ	SIGNAL	New Survey Shows Americans Want Financial Privacy
 2026-11-05T03:25:58.569Z	1608739	Construction_and_Engineering	2	142	0	1	0.9	9274	29313	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@history	FRESH,SIGNAL	Xikipedia History: The Nordertor
+2026-11-05T03:39:09.611Z	1608515	AskSN	2	3248	0	46	8.8	48657	16601	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Let's discuss what the Democrat sweep means for financial markets and bitcoin
+2026-11-05T03:39:09.611Z	1608400	bitcoin	1	2723	0	0	10.9	1014665	251	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Elias Rohrer, instagibbs, darosior & more - Bitcoin Optech Newsletter #429 Recap
+2026-11-05T03:39:09.611Z	1608374	bitcoin	1	2102	0	0	11.6	1574064	70	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Guy Who Put Names on Bitcoin | Just Another Naming System?
+2026-11-05T03:39:09.611Z	1608631	bitcoin	1	1346	0	10	5.6	74100	13651	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Why isn't bitcoin used for more gray market things?
+2026-11-05T03:39:09.611Z	1608464	bitcoin	1	788	0	0	9.8	74100	13651	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	QSAVE -  a path for coins that never migrate: no burn, no freeze
+2026-11-05T03:39:09.611Z	1608550	math	2	613	0	0	8.2	74100	13651	recent@bitdevs|top@bitdevs	SIGNAL	Introducing CUTS, a new few-time hash-based signature scheme - Project Eleven
+2026-11-05T03:39:09.611Z	1608502	news	2	451	0	0	9.1	74100	13651	recent@devs|top@devs	SIGNAL	Debian and Ubuntu APT Flaw Lets MitM Swap Verified Packages and Run Code as Root
+2026-11-05T03:39:09.611Z	1608428	bitcoin	1	408	0	1	10.4	109384	155	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Hashprice Prediction Markets Live on Glimpse
+2026-11-05T03:39:09.611Z	1608372	meta	1	353	0	7	11.7	36151	1698	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-11-05T03:39:09.611Z	1608418	bitcoin	1	316	0	0	10.5	21800	498	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	TaskFuel: paid tools for your AI agent, now funded with sats
+2026-11-05T03:39:09.611Z	1608703	tech	1	296	0	0	2.5	777209	113	recent@tech|top@tech	SIGNAL	Go 1.27 ships encoding/json/v2: strict by default, unmarshal up to 10x faster
+2026-11-05T03:39:09.611Z	1608430	lightning	1	234	0	1	10.3	163128	4037	recent@lightning|top@lightning	SIGNAL	LaWallet NWC — Lightning Addresses for Everyone
+2026-11-05T03:39:09.611Z	1608390	bitcoinplusplus	1	204	0	0	11.1	272410	2196	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Tap that Cash: Building Cashu Payment Terminals with Nucula — zeugmaster (Dario)
+2026-11-05T03:39:09.611Z	1608423	lightning	1	204	0	2	10.5	163128	4037	recent@lightning|top@lightning	SIGNAL	LaWallet.ar Support ending soon — please move your funds out
+2026-11-05T03:39:09.611Z	1608409	nostr	1	203	0	0	10.7	74100	13651	recent@nostr|top@nostr	SIGNAL	lazarus: Recovery of user data from relay history on Nostr. - dmnyc
